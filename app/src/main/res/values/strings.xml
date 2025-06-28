@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SakeApp</string>
+    <string name="toolbar_main_title">Sake Shops</string>
+    <string name="shop_list_error">Sorry, we found and error</string>
+    <string name="shop_list_loading">Loading</string>
+    <string name="shop_address_label">Address: &#160;</string>
+    <string name="shop_website_button_text">Go to website</string>
+    <string name="on_back_button_content_description">Back</string>
+</resources>
